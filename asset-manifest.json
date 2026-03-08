@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/npuzzle-ai-Game/static/css/main.e6c13ad2.css",
+    "main.js": "/npuzzle-ai-Game/static/js/main.884f93e5.js",
+    "static/js/453.990cfdbf.chunk.js": "/npuzzle-ai-Game/static/js/453.990cfdbf.chunk.js",
+    "index.html": "/npuzzle-ai-Game/index.html",
+    "main.e6c13ad2.css.map": "/npuzzle-ai-Game/static/css/main.e6c13ad2.css.map",
+    "main.884f93e5.js.map": "/npuzzle-ai-Game/static/js/main.884f93e5.js.map",
+    "453.990cfdbf.chunk.js.map": "/npuzzle-ai-Game/static/js/453.990cfdbf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.884f93e5.js"
+  ]
+}
