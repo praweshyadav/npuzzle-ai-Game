@@ -1,5 +1,9 @@
 # N-Puzzle AI Game
 
+## Preview
+
+![N-Puzzle AI](preview.png)
+
 An interactive **8-Puzzle AI solver built with React** implementing search algorithms like **A\*** and **Beam Search** with heuristic metrics and automatic solving.
 
 ## Features
