@@ -1,4 +1,7 @@
 # N-Puzzle AI Game
+## Live Demo
+
+https://praweshyadav.github.io/npuzzle-ai-Game
 
 ## Preview
 
