@@ -1,7 +1,7 @@
 {
   "name": "npuzzle-ai",
   "version": "0.1.0",
-  "homepage": "https://praweshyadav.github.io/npuzzle-ai-Game",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@capacitor/android": "^8.2.0",
